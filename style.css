@@ -17,13 +17,13 @@ div {
 }
 
 #myheader {
-  background: rgb(54,57,63);
+  background: rgb(54, 57, 63);
   position: fixed;
   text-align: center;
   width: 100%;
   color: aliceblue;
   padding: 20px;
-  outline-color: rgb(54,57,63);
+  outline-color: rgb(54, 57, 63);
   outline-style: solid;
   outline-width: 10px;
 }
