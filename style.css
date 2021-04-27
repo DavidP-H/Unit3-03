@@ -1,0 +1,29 @@
+#image {
+  width: 500px;
+  height: 2000px;
+}
+
+div {
+  float: left;
+  padding: 15px;
+}
+
+#blue {
+  background: blue;
+}
+
+#grey {
+  background: grey;
+}
+
+#myheader {
+  background: rgb(54,57,63);
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  color: aliceblue;
+  padding: 20px;
+  outline-color: rgb(54,57,63);
+  outline-style: solid;
+  outline-width: 10px;
+}
